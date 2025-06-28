@@ -1,2 +1,2 @@
 # BU-MSDS-Projects
-Projects I have worked on as part of my Master's degree in Data Science from Boston University
+This repository consists of the various projects and coding assignments I have completed as part of my Master's Degree in Data Science from Boston University.
